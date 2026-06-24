@@ -128,4 +128,4 @@ Eventually systems either restored contact with their neighbours, or sent out ex
 
 Of the pre-war factions, only Maestia, as a fairly conservative and isolationist faction, survived the collapse fairly intact. They managed to shut down their gates during the start of the war, and their 5 core systems survived with their gate system intact. They did lose 8 outer colonies that they didn't have direct gates to, and the core systems fought many battles against invading fleets arriving by warp. But since their societal structure held strong and their production and fleet operated at full capacity, they eventually defeated all the invading fleets and held together.
 
-The gates paired to the Maestia systems were all destroyed, so they couldn't leave their systems.
+The gates paired to the Maestia systems were all destroyed, so they couldn't leave their systems. This, plus the fact that Maestia focused almost entirely on defensive strategies and isolationist policies meant that they were alone most of the late 2700s.

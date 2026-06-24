@@ -4,14 +4,20 @@
 
 ### The Empire of Maestia
 
+![Maestia](images/Maestia.webp)
+
 The empire of Maestia is the oldest of the major factions. It is the only directly surviving faction from the great war. The Maestian puts a lot of weight on tradition and ceremony. The military uniforms of the Maestians are very ornate.
 The Maestians are quite racist and elitistic, but they are generally not very expansionistic. They are however quite territorial, and defend their systems vigorously.
 
 ### The Alliance of Free Worlds
 
+![Alliance of Free Worlds](images/Alliance.webp)
+
 The Alliance of Free Worlds are not a political governing body as such. It is a purely military alliance designed to combat the threat that the free worlds near the core face from the Federation and other larger factions.
 
 ### Federation of Core Systems
+
+![Federation](images/Federation.webp)
 
 The Federation is the largest faction in the known galaxy. It was founded about 200 years ago, when 4 of the core systems united to fight against the Ombra. It has expanded constantly since then. The Federation believe that the galaxy should be united under one rule.
 
@@ -21,17 +27,21 @@ A chairman is elected by the council for 16 standard years at a time. Any decisi
 
 ### Ethife
 
+![Ethife](images/Ethife.webp)
+
 The Ethife is a race of spacers. They have no planetary colonies, and tend to live in large space stations. They tend to be physically adapted to living in space. They usually don't bother with gravity on their ships as they are quite adopted to living i zero-G.
 
 The Ethife have the largest fleet of all factions, but not all their ships are geared only towards combat. They tend to be quite careful in their use of their fleet, and are generally not regarded as an aggressive race.
 
 ### Primus Vexillarius (The Ombra)
 
+![Primus Vexillarius](images/Ombra.webp)
+
 Primus Vexillarius, commonly called The Ombra, where a fleet of ships stranded in a desolate solar system during the great war. The fleet sailed through normal space to the closest populated system. Because they where low on fuel, and some warp drives where broken, they used 1G acceleration to get there. This resulted in a journey of over 100 years.
 
 By the time they got there they had already formed a society based on military discipline, and hatred for their enemies. They used cloning technology to renew their aging warrior pool.
 
-When they arrived they conquered and enslaved the colony, but The Ombra where so entrenched in their ways that they continued to rule from their ships in orbit. They have since then continued to conquer systems and enslave planets. They always establish orbital stations and/or forts on the planets that are isolated from the rest of the population.
+When they arrived they conquered and enslaved the colony, but The Ombra where so entrenched in their ways that they continued to rule from their ships in orbit. They have since then continued to conquer systems and enslave planets. They always establish orbital stations and/or fortresses on the planets that are isolated from the rest of the population.
 
 ## Minor Factions
 
