@@ -13,7 +13,7 @@ The Maestians are quite racist and elitistic, but they are generally not very ex
 
 ![Alliance of Free Worlds](images/Alliance.webp)
 
-The Alliance of Free Worlds are not a political governing body as such. It is a purely military alliance designed to combat the threat that the free worlds near the core face from the Federation and other larger factions.
+The Alliance of Free Worlds are not a political governing body as such. It is a purely military alliance designed to combat the threat that the free worlds near the core face from the Federation and other larger factions. They are a very diverse faction consisting of lots of independent worlds and systems.
 
 ### Federation of Core Systems
 
@@ -31,7 +31,11 @@ A chairman is elected by the council for 16 standard years at a time. Any decisi
 
 The Ethife is a race of spacers. They have no planetary colonies, and tend to live in large space stations. They tend to be physically adapted to living in space. They usually don't bother with gravity on their ships as they are quite adopted to living i zero-G.
 
-The Ethife have the largest fleet of all factions, but not all their ships are geared only towards combat. They tend to be quite careful in their use of their fleet, and are generally not regarded as an aggressive race.
+They can vary a lot in appearance, since they use a lot of genetic mods, but they tend to have a quite thin build, and are usually quite tall.
+
+The Ethife doesn't have one central government or military leader. But they do have a strong cultural bond, and often come to the aid of other Ethife against outside threats.
+
+The Ethife have the largest fleet of all factions, but few of their ships are geared only towards combat. They tend to be quite careful in their use of their fleet, and are generally not regarded as an aggressive faction.
 
 ### Primus Vexillarius (The Ombra)
 
