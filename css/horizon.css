@@ -1,0 +1,192 @@
+@import url("https://fonts.googleapis.com/css2?family=Michroma&display=swap");
+
+:root {
+	--usr-font-primary: "Michroma", sans-serif;
+	--usr-font-secondary: "Michroma", sans-serif;
+
+	/* Sci-fi Colors */
+	--horizon-cyan: #00f2ff;
+	--horizon-blue: #0072ff;
+	--horizon-dark-blue: #001a33;
+	--horizon-neon-green: #39ff14;
+
+	/* Override USR variables */
+	--usr-accent: var(--horizon-cyan);
+}
+
+/* Dark Theme overrides for sci-fi */
+body.theme-dark {
+	--usr-surface-1: rgba(0, 10, 20, 0.9);
+	--usr-surface-2: rgba(0, 26, 51, 0.95);
+	--usr-surface-3: rgba(0, 38, 77, 0.98);
+	--usr-text: #e0faff;
+	--usr-text-strong: #ffffff;
+	--usr-text-muted: #88aab2;
+	--usr-border: rgba(0, 242, 255, 0.4);
+	--usr-accent: var(--horizon-cyan);
+}
+
+/* Light Theme overrides for sci-fi */
+body.theme-light {
+	--usr-surface-1: #f5fafd;
+	--usr-surface-2: #ffffff;
+	--usr-surface-3: #e8f4f8;
+	--usr-text: #1a2a33;
+	--usr-text-strong: #000000;
+	--usr-text-muted: #4a6a7a;
+	--usr-border: #4eb0da;
+	--usr-accent: #0077b6;
+}
+
+/* Specific styling for sci-fi feel */
+.usr.sheet .window-content {
+	background-color: var(--usr-surface-1);
+	background-image: none !important;
+}
+
+.usr.sheet {
+	border-radius: 0;
+	border: 1px solid var(--usr-border);
+	box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+.usr.sheet .window-header {
+	background: linear-gradient(
+		90deg,
+		var(--horizon-dark-blue),
+		var(--usr-accent)
+	);
+	color: white;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+
+.usr.sheet .sheet-tabs .item {
+	text-transform: uppercase;
+	font-size: 0.8rem;
+	border-bottom: 2px solid transparent;
+	padding: 0.5rem 1rem;
+	background: var(--usr-surface-2);
+	margin-right: 2px;
+	clip-path: polygon(10% 0, 100% 0, 100% 100%, 0 100%, 0 20%);
+}
+
+.usr.sheet .sheet-tabs .item.active {
+	border-bottom: 3px solid var(--usr-accent);
+	background: var(--usr-surface-3);
+	color: var(--usr-accent);
+	text-shadow: 0 0 5px var(--usr-accent);
+}
+
+/* Form groups and inputs */
+.usr.sheet input[type="text"],
+.usr.sheet input[type="number"],
+.usr.sheet select,
+.usr.sheet textarea {
+	background: var(--usr-surface-2);
+	border: 1px solid var(--usr-border);
+	color: var(--usr-text-strong);
+	border-radius: 0;
+	font-family: var(--usr-font-secondary);
+}
+
+/* Header Adjustments */
+.usr.sheet .charname input {
+	font-size: 2rem;
+	border: none;
+	border-bottom: 2px solid var(--usr-accent);
+	background: transparent;
+}
+
+.usr.sheet .meta-card {
+	background: var(--usr-surface-2);
+	border: 1px solid var(--usr-border);
+	clip-path: polygon(0 0, 100% 0, 100% 80%, 90% 100%, 0 100%);
+}
+
+.usr.sheet .meta-label {
+	color: var(--usr-accent);
+	font-size: 0.7rem;
+	text-transform: uppercase;
+}
+
+.usr.sheet .profile-img {
+	border: 2px solid var(--usr-border);
+	background: var(--usr-surface-2);
+	border-radius: 0;
+	padding: 2px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.usr.sheet input:focus {
+	box-shadow: 0 0 5px var(--usr-accent);
+	border-color: var(--usr-accent);
+}
+
+/* Traits table */
+.traits-table th {
+	background: rgba(0, 114, 255, 0.15);
+	text-transform: uppercase;
+	font-size: 0.75rem;
+	color: var(--usr-accent);
+	border-bottom: 2px solid var(--usr-accent);
+}
+
+body.theme-dark .traits-table th {
+	background: rgba(0, 242, 255, 0.1);
+	color: var(--horizon-cyan);
+}
+
+.traits-table td {
+	border-bottom: 1px solid var(--usr-border);
+	background: var(--usr-surface-2);
+}
+
+/* Buttons */
+.usr.sheet button {
+	background: var(--usr-surface-3);
+	border: 1px solid var(--usr-border);
+	color: var(--usr-text-strong);
+	border-radius: 0;
+	text-transform: uppercase;
+	font-family: var(--usr-font-primary);
+	font-weight: bold;
+	cursor: pointer;
+	transition: all 0.2s ease;
+}
+
+.usr.sheet button:hover {
+	background: var(--usr-accent);
+	color: var(--horizon-dark-blue);
+	box-shadow: 0 0 10px var(--usr-accent);
+}
+
+/* Skill traits specifically */
+.trait-label {
+	font-weight: bold;
+	color: var(--usr-text-strong);
+}
+
+/* Combat elements */
+.combat-card {
+	border: 1px solid var(--usr-border);
+	background: var(--usr-surface-2);
+}
+
+.combat-card .card-header {
+	background: rgba(0, 242, 255, 0.1);
+	color: var(--usr-accent);
+}
+
+/* Scrollbars for sci-fi look */
+.usr.sheet ::-webkit-scrollbar {
+	width: 4px;
+}
+
+.usr.sheet ::-webkit-scrollbar-track {
+	background: rgba(0, 0, 0, 0.1);
+}
+
+.usr.sheet ::-webkit-scrollbar-thumb {
+	background: var(--usr-accent);
+}

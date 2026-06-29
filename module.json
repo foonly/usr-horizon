@@ -18,5 +18,14 @@
 	"flags": {
 		"canUpload": true
 	},
-	"description": "<p>System modifications and resources for the Horizon Sci-Fi world.</p>"
+	"description": "<p>System modifications and resources for the Horizon Sci-Fi world.</p>",
+	"esmodules": ["module/horizon.mjs"],
+	"styles": ["css/horizon.css"],
+	"languages": [
+		{
+			"lang": "en",
+			"name": "English",
+			"path": "lang/en.json"
+		}
+	]
 }
