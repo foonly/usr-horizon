@@ -1,0 +1,22 @@
+{
+	"id": "usr-horizon",
+	"title": "USR Horizon",
+	"version": "1.0.0",
+	"compatibility": {
+		"minimum": "14",
+		"verified": "14"
+	},
+	"authors": [
+		{
+			"name": "Niklas Schönberg",
+			"email": "niklas@foonly.dev",
+			"url": "https://foonly.dev",
+			"flags": {}
+		}
+	],
+	"url": "https://github.com/foonly/usr-horizon",
+	"flags": {
+		"canUpload": true
+	},
+	"description": "<p>System modifications and resources for the Horizon Sci-Fi world.</p>"
+}

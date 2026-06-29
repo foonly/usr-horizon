@@ -132,6 +132,20 @@ Of the pre-war factions, only Maestia, as a fairly conservative and isolationist
 
 The gates paired to the Maestia systems were all destroyed, so they couldn't leave their systems. This, plus the fact that Maestia focused almost entirely on defensive strategies and isolationist policies meant that they were alone most of the late 2700s.
 
+### Ethife
+
+During the Great War, the Ethife system, a thriving industrial hub, had it's main planet bombed with the doomsday bomb. The system was already borderline habitable, so the bomb destroyed it completely, making the planet difficult to even land on.
+
+The system had a very vibrant off-world mining and production infrastructure located in the asteroid belt. The mining bases already had a very strong and unified culture at this point. During the battle, the systems main gates were destroyed. But three smaller gates connecting the system to some resource-rich, but desolate systems remained salveagable.
+
+The miners took in as many survivors they could form the planet dwellers, although not that many survived the battle. Luckily, being located far out in the belt, most of the production infrastructure survived. The mining colonies already had mobile agriculture stations, orbiting between the goldilocks zone and the belt, simulating seasons, and maximizing the production output.
+
+The four connected systems were cut off from the rest of the galaxy, and since there were no planets to build things on, the Ethife started to adapt further to the low and micro gravity environment they lived in.
+
+When eventually moving out of their systems, and meeting others. The Ethife were welcomed, since they brought production capacity with them, and made no claims on any planets. They even had colonized some systems with habitable planets, but had only small scientific and agricultural colonies in place, and were more than happy to let others colonize them.
+
+Because of this, the Ethife have pacts in place with most civilized systems in the galaxy. Allowing them to control their own facilities in systems controlled by other factions. The only major exception is the Ombra.
+
 ## 2800
 
 ### Rebuilding
