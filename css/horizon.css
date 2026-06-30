@@ -38,10 +38,27 @@ body.theme-light {
 	--usr-accent: #0077b6;
 }
 
+.usr .fas,
+.usr .far,
+.usr .fal,
+.usr .fab,
+.usr .fa-solid,
+.usr .fa-regular,
+.usr .fa-light,
+.usr .fa-brands {
+	font-family: "Font Awesome 7 Pro" !important;
+	font-weight: 900 !important;
+}
+
 /* Specific styling for sci-fi feel */
 .usr.sheet .window-content {
 	background-color: var(--usr-surface-1);
 	background-image: none !important;
+	border: 1px solid var(--usr-border);
+}
+
+.usr.window-app .window-header {
+	font-family: var(--usr-font-primary);
 }
 
 .usr.sheet {
@@ -61,21 +78,40 @@ body.theme-light {
 	letter-spacing: 2px;
 }
 
+.usr.sheet .sheet-tabs {
+	border-bottom: 1px solid var(--usr-border);
+	display: flex;
+	padding: 0 10px;
+	margin-bottom: 10px;
+}
+
 .usr.sheet .sheet-tabs .item {
 	text-transform: uppercase;
 	font-size: 0.8rem;
-	border-bottom: 2px solid transparent;
-	padding: 0.5rem 1rem;
+	padding: 0.6rem 1.2rem;
 	background: var(--usr-surface-2);
-	margin-right: 2px;
-	clip-path: polygon(10% 0, 100% 0, 100% 100%, 0 100%, 0 20%);
+	margin-right: 4px;
+	border: 1px solid var(--usr-border);
+	border-bottom: none;
+	color: var(--usr-text-muted);
+	position: relative;
+	transition: all 0.2s ease;
 }
 
 .usr.sheet .sheet-tabs .item.active {
-	border-bottom: 3px solid var(--usr-accent);
-	background: var(--usr-surface-3);
+	background: var(--usr-surface-1);
 	color: var(--usr-accent);
+	border: 1px solid var(--usr-border);
+	border-top: 4px solid var(--usr-accent);
+	border-bottom: 2px solid var(--usr-surface-1);
+	margin-bottom: -2px;
+	z-index: 10;
 	text-shadow: 0 0 5px var(--usr-accent);
+}
+
+.usr.sheet .sheet-tabs .item:hover:not(.active) {
+	background: var(--usr-surface-3);
+	color: var(--usr-text-strong);
 }
 
 /* Form groups and inputs */
@@ -91,6 +127,17 @@ body.theme-light {
 }
 
 /* Header Adjustments */
+.usr.sheet h2,
+.usr.sheet h3 {
+	border-bottom: 2px solid var(--usr-accent);
+	color: var(--usr-accent);
+	text-transform: uppercase;
+	padding-bottom: 5px;
+	margin: 15px 0;
+	font-weight: bold;
+	font-family: var(--usr-font-primary);
+}
+
 .usr.sheet .charname input {
 	font-size: 2rem;
 	border: none;
@@ -101,7 +148,6 @@ body.theme-light {
 .usr.sheet .meta-card {
 	background: var(--usr-surface-2);
 	border: 1px solid var(--usr-border);
-	clip-path: polygon(0 0, 100% 0, 100% 80%, 90% 100%, 0 100%);
 }
 
 .usr.sheet .meta-label {
