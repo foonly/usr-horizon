@@ -1,6 +1,12 @@
 # Changelog
 
-## 1.1.0
+### 1.1.1 (2026-07-01)
+
+#### Continuous Integration
+
+- github: update zip command and exclude patterns (5b88d77)
+
+## v1.1.0 (2026-07-01)
 
 #### Features
 
