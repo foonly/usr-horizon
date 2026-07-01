@@ -15,6 +15,8 @@
 		}
 	],
 	"url": "https://github.com/foonly/usr-horizon",
+	"manifest": "https://github.com/foonly/usr-horizon/releases/latest/download/module.json",
+	"download": "https://github.com/foonly/usr-horizon/releases/latest/download/usr-horizon.zip",
 	"flags": {
 		"canUpload": true
 	},
