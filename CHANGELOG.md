@@ -1,6 +1,12 @@
 # Changelog
 
-### 1.1.1 (2026-07-01)
+## 1.2.0 (2026-07-16)
+
+#### Features
+
+- system: update trait specializations and settings (f3631f7)
+
+### v1.1.1 (2026-07-01)
 
 #### Continuous Integration
 
