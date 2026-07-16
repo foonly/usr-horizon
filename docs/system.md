@@ -27,6 +27,7 @@ This lists changes to the system
 - Administer
 - Academics
 - Piloting
+- Driving
 
 ## Specializations
 
@@ -48,3 +49,4 @@ This lists changes to the system
 - **Administer**: Bureaucracy, Law, Accounting, Management
 - **Academics**: History, Science, Xenobiology, Research, Languages
 - **Piloting**: Starships, Atmospheric, Astrogation, Sensors
+- **Driving**: Wheeled, Tracked, Hover, Heavy

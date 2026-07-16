@@ -13,6 +13,7 @@ Hooks.once("init", async function () {
 		"administer",
 		"academics",
 		"piloting",
+		"driving",
 	];
 
 	// Define specializations for the new and updated traits
@@ -60,6 +61,13 @@ Hooks.once("init", async function () {
 		atmospheric: "USR.SpecAtmospheric",
 		astrogation: "USR.SpecAstrogation",
 		sensors: "USR.SpecSensors",
+	};
+
+	CONFIG.usr.specializations.driving = {
+		starships: "USR.SpecWheeled",
+		atmospheric: "USR.SpecTracked",
+		astrogation: "USR.SpecHover",
+		sensors: "USR.SpecHeavy",
 	};
 
 	// Update existing ones for sci-fi context

@@ -5,6 +5,7 @@
 	"USR.TraitAdminister": "Administer",
 	"USR.TraitAcademics": "Academics",
 	"USR.TraitPiloting": "Piloting",
+	"USR.TraitDriving": "Driving",
 
 	"USR.SpecCybernetics": "Cybernetics",
 	"USR.SpecRobotics": "Robotics",
@@ -37,5 +38,9 @@
 	"USR.SpecStructural": "Structural",
 	"USR.SpecLasers": "Lasers",
 	"USR.SpecHeavyWeapons": "Heavy Weapons",
-	"USR.SpecHostileEnvironments": "Hostile Environments"
+	"USR.SpecHostileEnvironments": "Hostile Environments",
+	"USR.SpecWheeled": "Wheeled",
+	"USR.SpecTracked": "Tracked",
+	"USR.SpecHover": "Hover",
+	"USR.SpecHeavy": "Heavy"
 }
