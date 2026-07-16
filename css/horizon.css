@@ -4,6 +4,10 @@
 	--usr-font-primary: "Michroma", sans-serif;
 	--usr-font-header: "Audiowide", sans-serif;
 
+	--usr-font-size: 14px;
+	--usr-font-size-small: 12px;
+	--usr-font-size-large: 16px;
+
 	/* Sci-fi Colors */
 	--horizon-cyan: #00f2ff;
 	--horizon-blue: #0072ff;
@@ -79,39 +83,9 @@ body.theme-light {
 }
 
 .usr.sheet .sheet-tabs {
-	border-bottom: 1px solid var(--usr-border);
 	display: flex;
 	padding: 0 10px;
 	margin-bottom: 10px;
-}
-
-.usr.sheet .sheet-tabs .item {
-	text-transform: uppercase;
-	font-size: 0.8rem;
-	padding: 0.6rem 1.2rem;
-	background: var(--usr-surface-2);
-	margin-right: 4px;
-	border: 1px solid var(--usr-border);
-	border-bottom: none;
-	color: var(--usr-text-muted);
-	position: relative;
-	transition: all 0.2s ease;
-}
-
-.usr.sheet .sheet-tabs .item.active {
-	background: var(--usr-surface-1);
-	color: var(--usr-accent);
-	border: 1px solid var(--usr-border);
-	border-top: 4px solid var(--usr-accent);
-	border-bottom: 2px solid var(--usr-surface-1);
-	margin-bottom: -2px;
-	z-index: 10;
-	text-shadow: 0 0 5px var(--usr-accent);
-}
-
-.usr.sheet .sheet-tabs .item:hover:not(.active) {
-	background: var(--usr-surface-3);
-	color: var(--usr-text-strong);
 }
 
 /* Form groups and inputs */

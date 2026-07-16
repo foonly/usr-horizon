@@ -36,8 +36,6 @@
 	"USR.SpecPowerSystems": "Power Systems",
 	"USR.SpecStructural": "Structural",
 	"USR.SpecLasers": "Lasers",
-	"USR.SpecBlasters": "Blasters",
-	"USR.SpecRailguns": "Railguns",
 	"USR.SpecHeavyWeapons": "Heavy Weapons",
 	"USR.SpecHostileEnvironments": "Hostile Environments"
 }

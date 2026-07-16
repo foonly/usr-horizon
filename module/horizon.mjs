@@ -75,12 +75,16 @@ Hooks.once("init", async function () {
 	CONFIG.usr.specializations.ranged = {
 		pistols: "USR.SpecPistols",
 		rifles: "USR.SpecRifles",
+		shotguns: "USR.SpecShotguns",
 		lasers: "USR.SpecLasers",
-		blasters: "USR.SpecBlasters",
-		railguns: "USR.SpecRailguns",
+		bows: "USR.SpecBows",
+		thrown: "USR.SpecThrown",
 		heavyWeapons: "USR.SpecHeavyWeapons",
 	};
 
 	CONFIG.usr.specializations.survival.hostileEnvironments =
 		"USR.SpecHostileEnvironments";
+
+	// Update the trait max for the sci-fi setting
+	CONFIG.usr.traitMax = 6;
 });
