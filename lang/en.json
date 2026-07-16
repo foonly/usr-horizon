@@ -42,5 +42,6 @@
 	"USR.SpecWheeled": "Wheeled",
 	"USR.SpecTracked": "Tracked",
 	"USR.SpecHover": "Hover",
-	"USR.SpecHeavy": "Heavy"
+	"USR.SpecHeavy": "Heavy",
+	"USR.SpecMicroGravity": "Micro Gravity"
 }

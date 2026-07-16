@@ -93,6 +93,8 @@ Hooks.once("init", async function () {
 	CONFIG.usr.specializations.survival.hostileEnvironments =
 		"USR.SpecHostileEnvironments";
 
+	CONFIG.usr.specializations.mobility.microGravity = "USR.SpecMicroGravity";
+
 	// Update the trait max for the sci-fi setting
 	CONFIG.usr.traitMax = 6;
 });
