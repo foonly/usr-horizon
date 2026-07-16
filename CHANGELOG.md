@@ -1,6 +1,12 @@
 # Changelog
 
-## 1.2.0 (2026-07-16)
+## 1.3.0 (2026-07-16)
+
+#### Features
+
+- trait: add driving trait and specializations (8804336)
+
+## v1.2.0 (2026-07-16)
 
 #### Features
 
