@@ -15,6 +15,9 @@ It is one of the core systems of the Federation, and the votes of the system is 
 A dedicated patrol and escort vessel designed to enforce authority in sectors where larger warships are not required. This ship has an "open" bridge, mounted near the top of the structure.
 The shuttle hangar bay can house two shuttle / interceptor ships or four fighters.
 
+- Length: 125m
+- Crew: 64
+
 #### Armament
 
 - Rail Gun: A twin-barrel railgun (120mm) is mounted along the superstructure.
@@ -26,6 +29,9 @@ The shuttle hangar bay can house two shuttle / interceptor ships or four fighter
 
 The Ajax is built for heavy fleet engagements and power projection, featuring massive upgrades in firepower and endurance. The Ajax feature an Armoured Command Bridge, and and auxiliary control center.
 There is a shuttle bay that can house four shuttles / interceptors, and a fighter bay that houses six fighters.
+
+- Length: 224m
+- Crew: 168
 
 #### Armament
 
@@ -39,6 +45,10 @@ There is a shuttle bay that can house four shuttles / interceptors, and a fighte
 The Eclipse primary purpose is to control planetary battlefields from orbit. It's not built for fleet battles, and is the biggest of all cruisers. It features two "open" bridges, one for ship operations and one for planetary control.
 It has four shuttle hangars, each holding up to four shuttle / interceptor ships, as well as a fighter bay for six fighters.
 It also has extra space for troops for launching planetary operations. It's not meant as a troop carrier, but rather mission control for planetary operations.
+
+- Length: 350m
+- Crew: 256
+- Troops: 300
 
 #### Armament
 
