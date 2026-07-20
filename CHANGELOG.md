@@ -1,6 +1,17 @@
 # Changelog
 
-## 1.3.0 (2026-07-16)
+## 1.4.0 (2026-07-17)
+
+#### Features
+
+- config: add micro gravity specialization (58548ea)
+
+#### Documentation
+
+- federation: add ship specifications to documentation (b624ebb)
+- federation: update Vega data and add warship specifications (6f8ef5c)
+
+## v1.3.0 (2026-07-16)
 
 #### Features
 
