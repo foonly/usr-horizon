@@ -1,8 +1,8 @@
-@import url("https://fonts.googleapis.com/css2?family=Audiowide&family=Michroma&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Anta&family=Changa&display=swap");
 
 :root {
-	--usr-font-primary: "Michroma", sans-serif;
-	--usr-font-header: "Audiowide", sans-serif;
+	--usr-font-primary: "Changa", sans-serif;
+	--usr-font-header: "Anta", sans-serif;
 
 	--usr-font-size: 14px;
 	--usr-font-size-small: 12px;

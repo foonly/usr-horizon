@@ -29,5 +29,19 @@
 			"name": "English",
 			"path": "lang/en.json"
 		}
+	],
+	"packs": [
+		{
+			"name": "pack-gear-horizon",
+			"label": "Horizon Gear",
+			"path": "packs/pack-gear-horizon",
+			"type": "Item",
+			"ownership": {
+				"PLAYER": "OBSERVER",
+				"ASSISTANT": "OWNER"
+			},
+			"system": "usr",
+			"flags": {}
+		}
 	]
 }
