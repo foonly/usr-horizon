@@ -1,6 +1,12 @@
 # Changelog
 
-## 1.4.0 (2026-07-17)
+## 1.5.0 (2026-07-20)
+
+#### Features
+
+- gear: add horizon gear compendium and assets (4416419)
+
+## v1.4.0 (2026-07-17)
 
 #### Features
 
