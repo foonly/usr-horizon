@@ -1,6 +1,12 @@
 # Changelog
 
-## 1.5.0 (2026-07-20)
+### 1.5.1 (2026-07-21)
+
+#### Maintenance
+
+- db: update leveldb files for pack-gear-horizon (93c763e)
+
+## v1.5.0 (2026-07-20)
 
 #### Features
 
